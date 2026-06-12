@@ -64,7 +64,6 @@
     "@storybook/addon-docs": "^10.4.4",
     "@storybook/addon-links": "^10.4.4",
     "@storybook/addon-webpack5-compiler-babel": "^4.0.1",
-    "@storybook/react": "^10.4.4",
     "@storybook/react-webpack5": "^10.4.4",
     "@storybook/test-runner": "^0.24.4",
     "@types/jest": "^30.0.0",
