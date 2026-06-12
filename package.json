@@ -21,7 +21,7 @@
     "pre:test": "copyfiles -a -f ./.typescript/test/tsconfig.json ./",
     "prepare": "husky",
     "start": "npm run pre:test && storybook dev -p 6006",
-    "test": "npm run pre:test && jest --watch",
+    "test": "npm run pre:test && jest",
     "test:ci": "npm run pre:test && jest --ci",
     "test:sb": "test-storybook --coverage --coverageDirectory coverage/storybook --ci --verbose",
     "test:sb:coverage": "npx nyc report --reporter=lcov -t coverage/storybook --report-dir coverage/storybook",
