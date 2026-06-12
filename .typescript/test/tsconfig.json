@@ -17,6 +17,7 @@
     "rootDir": "./src",
     "outDir": "./dist",
     "noEmit": true,
+    "types": ["jest", "node"],
     "jsx": "react"
   },
   "include": ["src"],
