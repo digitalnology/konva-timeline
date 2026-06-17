@@ -1,7 +1,7 @@
 {
-  "name": "@melfore/konva-timeline",
+  "name": "@digitalnology-oss/konva-timeline",
   "version": "2.0.6",
-  "description": "Melfore ReactJS Timeline library made with Konva",
+  "description": "Digitalnology ReactJS Timeline library made with Konva",
   "main": "./dist/index.js",
   "type": "module",
   "types": "./dist/index.d.ts",
@@ -30,14 +30,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/melfore/konva-timeline.git"
+    "url": "https://github.com/digitalnology/konva-timeline.git"
   },
   "author": "@melfore",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/melfore/konva-timeline/issues"
+    "url": "https://github.com/digitalnology/konva-timeline/issues"
   },
-  "homepage": "https://github.com/melfore/konva-timeline#readme",
+  "homepage": "https://github.com/digitalnology/konva-timeline#readme",
   "peerDependencies": {
     "konva": "^10.0.12",
     "luxon": ">= 3.3.0 < 4",
