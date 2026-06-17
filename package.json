@@ -33,9 +33,10 @@
     "url": "https://github.com/digitalnology/konva-timeline.git"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "provenance": true
   },
-  "author": "@melfore",
+  "author": "@digitalnology",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/digitalnology/konva-timeline/issues"

@@ -7,7 +7,7 @@ on:
       - beta
 
 permissions:
-  # id-token: write
+  id-token: write
   contents: write
   issues: read
   pull-requests: read
@@ -87,5 +87,5 @@ jobs:
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          NPM_CONFIG_PROVENANCE: true
         run: npx semantic-release
