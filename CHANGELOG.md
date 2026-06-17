@@ -1,3 +1,20 @@
+# [3.0.0-beta.1](https://github.com/digitalnology/konva-timeline/compare/v2.0.6...v3.0.0-beta.1) (2026-06-17)
+
+
+### Bug Fixes
+
+* npm audit fix ([bca8788](https://github.com/digitalnology/konva-timeline/commit/bca8788dccc821328827442f524d90c4fe78f5de))
+
+
+### chore
+
+* 🤖 move to digitalnology ([a2977db](https://github.com/digitalnology/konva-timeline/commit/a2977db9f5d1ca2c9fac65966d6e1031465d76d9))
+
+
+### BREAKING CHANGES
+
+* 🧨 node 24, eslint 8, ts 6
+
 ## [2.0.6](https://github.com/melfore/konva-timeline/compare/v2.0.5...v2.0.6) (2026-03-18)
 
 
