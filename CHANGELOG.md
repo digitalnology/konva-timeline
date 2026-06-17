@@ -1,3 +1,5 @@
+# [3.0.0-beta.2](https://github.com/digitalnology/konva-timeline/compare/v3.0.0-beta.1...v3.0.0-beta.2) (2026-06-17)
+
 # [3.0.0-beta.1](https://github.com/digitalnology/konva-timeline/compare/v2.0.6...v3.0.0-beta.1) (2026-06-17)
 
 
