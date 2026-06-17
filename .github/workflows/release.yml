@@ -6,6 +6,12 @@ on:
       - main
       - beta
 
+permissions:
+  # id-token: write
+  contents: write
+  issues: read
+  pull-requests: read
+
 jobs:
   release:
     runs-on: ubuntu-latest
