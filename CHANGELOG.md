@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/digitalnology/konva-timeline/compare/v2.0.7...v3.0.0) (2026-06-17)
+
+
+### chore
+
+* 🤖 move to digitalnology ([a2977db](https://github.com/digitalnology/konva-timeline/commit/a2977db9f5d1ca2c9fac65966d6e1031465d76d9))
+
+
+### BREAKING CHANGES
+
+* 🧨 node 24, eslint 8, ts 6
+
 # [3.0.0-beta.2](https://github.com/digitalnology/konva-timeline/compare/v3.0.0-beta.1...v3.0.0-beta.2) (2026-06-17)
 
 # [3.0.0-beta.1](https://github.com/digitalnology/konva-timeline/compare/v2.0.6...v3.0.0-beta.1) (2026-06-17)
